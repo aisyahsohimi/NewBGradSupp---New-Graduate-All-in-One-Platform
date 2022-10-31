@@ -1,3 +1,4 @@
 # NewBGradSupp---New-Graduate-All-in-One-Platform
-Hi, I'm Siti Aisyah, final student from School of Computer Science, USM.
+-- Hi, I'm Siti Aisyah, final student from School of Computer Science, USM.
+-- My FYP title
 
