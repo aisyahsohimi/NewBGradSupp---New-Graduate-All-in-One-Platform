@@ -11,6 +11,6 @@ With the number of graduates increasing yearly, new graduates especially univers
 * Subsystem 3 - Professional Certificates / Skills I Could Use to Improve 
 
 ## My FYP Subsystem: How much pay could I expect?
-This subsytem provide all information to the user regarding the salary they could expect based on the details they provided in subsystem 1.
+This subsystem help the student to provide the range of salary they could expect based detail information they fill in subsystem 1. The range of salary might be different for each person as they have different education background and qualification.
 
 
